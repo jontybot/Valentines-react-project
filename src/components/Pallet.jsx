@@ -34,7 +34,7 @@ export default function Pallet(){
                             default:      return <h1>Pretty Pleas{e}?</h1>
                           }
                     })()
-                }</div>:<h1>Love You Bhawana!!{"(Happy Valentine's)"}</h1>}
+                }</div>:<h1>Love You Niharaaaa!!{"(Happy Valentine's)"}</h1>}
             {yes?<div>
                 <button className="btn" style={yesstyle} onClick={()=>{setYes(false)}}></button>
                 {count<16?<button className="nobutton" style={nostyle} onClick={()=>{setCount(count+1); if(count>5)setE(e+"e")}}></button>:null}
