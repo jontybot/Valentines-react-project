@@ -24,7 +24,7 @@ export default function Pallet(){
                     {
                         switch(count) {
   
-                            case 1:   return <h1>Will you be my valentine?(Dare to press No!)</h1>;
+                            case 1:   return <h1>Will you be my valentine?(Dare to say No!)</h1>;
                             case 2:   return <h1>You know you cannot say no!(try again)</h1>;
                             case 3:   return <h1>Kabtak no dabaogi?</h1>;
                             case 4:   return <h1>Dabati raho,i have plenty of time</h1>;
