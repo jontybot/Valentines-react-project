@@ -24,7 +24,7 @@ export default function Pallet(){
                     {
                         switch(count) {
   
-                            case 1:   return <h1>Ambikaaa, i know you are mad with me, but can you please forgive this nasamajh insaan?????(Pakka dobara nai hoga)</h1>;
+                            case 1:   return <h1>pratishtha, oh sorry prashasti, i know you are mad with me, but can you please forgive this nasamajh insaan?????(Pakka dobara nai hoga)</h1>;
                             case 2:   return <h1>Tum sachme merese baat nai karogi???(try again)</h1>;
                             case 3:   return <h1>Kabtak no dabaogi?</h1>;
                             case 4:   return <h1>Dabati raho,i have plenty of time</h1>;
@@ -34,7 +34,7 @@ export default function Pallet(){
                             default:      return <h1>Pretty Pleas{e}?</h1>
                           }
                     })()
-                }</div>:<h1>Thank You Ambikaaaaaa!! mujhe pata tha tum mujhe maaf kie bagair nai reh sakti :)</h1>}
+                }</div>:<h1>Thank You Buggeeeeeeee!! mujhe pata tha tum mujhe maaf kie bagair nai reh sakti :)</h1>}
             {yes?<div>
                 <button className="btn" style={yesstyle} onClick={()=>{setYes(false)}}></button>
                 {count<16?<button className="nobutton" style={nostyle} onClick={()=>{setCount(count+1); if(count>5)setE(e+"e")}}></button>:null}
