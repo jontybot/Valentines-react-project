@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/sorry-react-project/static/css/main.f4c80ade.css",
-    "main.js": "/sorry-react-project/static/js/main.2ba519b9.js",
+    "main.js": "/sorry-react-project/static/js/main.8b7c517b.js",
     "static/js/787.e03e7f76.chunk.js": "/sorry-react-project/static/js/787.e03e7f76.chunk.js",
     "static/media/yes.svg": "/sorry-react-project/static/media/yes.23469156e80e78d8f1663a6f42d80244.svg",
     "static/media/no.svg": "/sorry-react-project/static/media/no.1fdd052b577151bccea7ea4d69ad2e2e.svg",
     "static/media/logo.svg": "/sorry-react-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sorry-react-project/index.html",
     "main.f4c80ade.css.map": "/sorry-react-project/static/css/main.f4c80ade.css.map",
-    "main.2ba519b9.js.map": "/sorry-react-project/static/js/main.2ba519b9.js.map",
+    "main.8b7c517b.js.map": "/sorry-react-project/static/js/main.8b7c517b.js.map",
     "787.e03e7f76.chunk.js.map": "/sorry-react-project/static/js/787.e03e7f76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4c80ade.css",
-    "static/js/main.2ba519b9.js"
+    "static/js/main.8b7c517b.js"
   ]
 }
